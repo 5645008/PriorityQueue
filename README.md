@@ -1,2 +1,2 @@
-# PriorityQueue(maxheap-실습)
+# PriorityQueue(maxheap-과제)
 ![](./image.PNG)
