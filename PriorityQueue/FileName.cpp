@@ -53,6 +53,7 @@ void insert_max_heap(HeapType* h, element item)
 	h->heap[i] = item;
 }
 
+
 // 삭제 함수
 element delete_max_heap(HeapType* h)
 {
